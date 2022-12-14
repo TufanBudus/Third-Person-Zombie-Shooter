@@ -6852,3 +6852,570 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2022.12.14-12.29.26:387][302]LogViewport: Scene viewport resized to 1619x790, mode Windowed.
 [2022.12.14-12.29.26:411][303]LogViewport: Scene viewport resized to 1610x784, mode Windowed.
 [2022.12.14-12.29.26:482][304]LogViewport: Scene viewport resized to 1609x784, mode Windowed.
+[2022.12.14-12.35.28:877][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.12.14-12.35.31:038][473]LogSlate: Window 'Save Content' being destroyed
+[2022.12.14-12.35.31:047][473]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.14-12.35.31:217][473]LogSavePackage: Moving output files for package: /Game/ZombieShooter/Widgets/HUD/PlayerHUDWidget
+[2022.12.14-12.35.31:218][473]LogSavePackage: Moving '../../../../../../Users/Citroen/Third Person Zombie Shooter/Saved/PlayerHUDWidget816B7DDE434FA8359F4AE7AAC6912BA8.tmp' to '../../../../../../Users/Citroen/Third Person Zombie Shooter/Content/ZombieShooter/Widgets/HUD/PlayerHUDWidget.uasset'
+[2022.12.14-12.35.31:229][473]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 799 ms)
+[2022.12.14-12.35.31:337][473]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ZombieShooter/Maps/MAP1.MAP1
+[2022.12.14-12.35.31:337][473]Cmd: MAP LOAD FILE="../../../../../../Users/Citroen/Third Person Zombie Shooter/Content/ZombieShooter/Maps/MAP1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.14-12.35.31:337][473]LightingResults: New page: Lighting Build
+[2022.12.14-12.35.31:337][473]LoadErrors: New page: Loading map: MAP1.umap
+[2022.12.14-12.35.31:341][473]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-12.35.31:342][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-12.35.31:342][473]MapCheck: New page: Map Check
+[2022.12.14-12.35.31:342][473]LightingResults: New page: Lighting Build
+[2022.12.14-12.35.31:394][473]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.14-12.35.31:435][473]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.12.14-12.35.31:438][473]LogWorld: UWorld::CleanupWorld for MAP1, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-12.35.31:439][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-12.35.31:494][473]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.12.14-12.35.31:544][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.12.14-12.35.31:562][473]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP1'.
+[2022.12.14-12.35.31:562][473]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-12.35.31:562][473]LogAIModule: Creating AISystem for world MAP1
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display: ================================================
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display: Total job queries 513, among them cache hits 39 (7.60%)
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display: Tracking 474 distinct input hashes that result in 270 distinct outputs (56.96%)
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display: RAM used: 1.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.12%
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display: Shaders Compiled: 26
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display: Jobs assigned 26, completed 26 (100.00%)
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display: Average time worker was idle: 5.34 s
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display: Time job spent in pending queue: average 1.46 s, longest 3.58 s
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display: Job execution time: average 1.48 s, max 2.33 s
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display: Job life time (pending + execution): average 2.94 s, max 4.49
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.85 s
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display: Jobs were issued in 26 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display: Average processing rate: 4.44 jobs/sec
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display: Total thread time: 33.66 s
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display: Total thread preprocess time: 1.31 s
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display: Percentage time preprocessing: 3.88%
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display: Effective parallelization: 5.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 2.05 sec, max 2.05 sec, min 2.05 sec)
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 1.94 sec, max 1.94 sec, min 1.94 sec)
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    1 times, average 1.83 sec, max 1.83 sec, min 1.83 sec)
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 1.76 sec, max 2.04 sec, min 1.48 sec)
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    1 times, average 1.73 sec, max 1.73 sec, min 1.73 sec)
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 10.44% of total time (compiled    2 times, average 1.76 sec, max 2.04 sec, min 1.48 sec)
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 8.60% of total time (compiled    2 times, average 1.45 sec, max 1.94 sec, min 0.95 sec)
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 8.19% of total time (compiled    2 times, average 1.38 sec, max 1.84 sec, min 0.92 sec)
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.89% of total time (compiled    2 times, average 1.16 sec, max 1.38 sec, min 0.95 sec)
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 6.81% of total time (compiled    2 times, average 1.15 sec, max 1.46 sec, min 0.83 sec)
+[2022.12.14-12.35.31:564][473]LogShaderCompilers: Display: ================================================
+[2022.12.14-12.35.31:806][473]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.14-12.35.31:858][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.12.14-12.35.31:866][473]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.14-12.35.31:866][473]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.107ms to complete.
+[2022.12.14-12.35.31:866][473]LogFileHelpers: Loading map 'MAP1' took 0.529
+[2022.12.14-12.35.31:898][473]AssetCheck: New page: Asset Save: PlayerHUDWidget
+[2022.12.14-12.35.31:898][473]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ZombieShooter/Widgets/HUD/PlayerHUDWidget.PlayerHUDWidget
+[2022.12.14-12.35.31:934][474]LogAutomationController: Ignoring very large delta of 3.12 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.12.14-12.35.34:792][761]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.14-12.35.34:797][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.14-12.35.34:797][761]PIE: New page: PIE session: MAP1 (14 Dec 2022, 14:35:34)
+[2022.12.14-12.35.34:826][761]LogPlayLevel: Creating play world package: /Game/ZombieShooter/Maps/UEDPIE_0_MAP1
+[2022.12.14-12.35.34:833][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006588s)
+[2022.12.14-12.35.34:833][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ZombieShooter/Maps/MAP1.MAP1 to /Game/ZombieShooter/Maps/UEDPIE_0_MAP1.MAP1 (0.006650s)
+[2022.12.14-12.35.34:833][761]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-12.35.34:833][761]LogAIModule: Creating AISystem for world MAP1
+[2022.12.14-12.35.34:834][761]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2022.12.14-12.35.34:887][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.12.14-12.35.34:890][761]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.12.14-12.35.34:890][761]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.14-12.35.34:890][761]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.14-12.35.34:890][761]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.14-12.35.34:890][761]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.14-12.35.34:890][761]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.14-12.35.34:890][761]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.14-12.35.34:890][761]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.14-12.35.34:890][761]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.14-12.35.34:891][761]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.14-12.35.34:891][761]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.14-12.35.34:891][761]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.14-12.35.34:893][761]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.14-12.35.34:918][761]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.12.14-12.35.34:919][761]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.14-12.35.34:919][761]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.14-12.35.34:919][761]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.14-12.35.34:919][761]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2022.12.14-12.35.34:919][761]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2022.12.14-12.35.34:921][761]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2022.12.14-12.35.34:921][761]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2022.12.14-12.35.34:921][761]LogInit: FAudioDevice initialized.
+[2022.12.14-12.35.34:921][761]LogAudio: Display: Audio Device (ID: 10) registered with world 'MAP1'.
+[2022.12.14-12.35.34:924][761]LogLoad: Game class is 'GameplayGM_C'
+[2022.12.14-12.35.34:926][761]LogWorld: Bringing World /Game/ZombieShooter/Maps/UEDPIE_0_MAP1.MAP1 up for play (max tick rate 0) at 2022.12.14-13.35.34
+[2022.12.14-12.35.34:926][761]LogWorld: Bringing up level for play took: 0.001996
+[2022.12.14-12.35.34:928][761]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2022.12.14-12.35.34:930][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-12.35.34:930][761]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.12.14-12.35.34:930][761]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'SpawnPoints' of length 0 in '/Game/ZombieShooter/CoreBlueprints/Gameplay/GameplayGM.GameplayGM_C'!
+[2022.12.14-12.35.34:930][761]LogScript: Warning: Last function called:
+	/Game/ZombieShooter/CoreBlueprints/Gameplay/GameplayGM.GameplayGM_C.CalculateSpawnLocation
+
+[2022.12.14-12.35.34:935][761]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.14-12.35.34:935][761]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.14-12.35.34:935][761]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.12.14-12.35.34:936][761]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'StartingWeapons' of length 1 in '/Game/ZombieShooter/Characters/BaseCharacter/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2022.12.14-12.35.34:936][761]LogScript: Warning: Last function called:
+	/Game/ZombieShooter/Characters/BaseCharacter/ThirdPersonCharacter.ThirdPersonCharacter_C.SetupStartingWeapons
+
+[2022.12.14-12.35.34:936][761]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.12.14-12.35.34:936][761]PIE: Server logged in
+[2022.12.14-12.35.34:937][761]PIE: Play in editor total start time 0.139 seconds.
+[2022.12.14-12.35.43:671][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-12.35.43:671][687]LogWorld: BeginTearingDown for /Game/ZombieShooter/Maps/UEDPIE_0_MAP1
+[2022.12.14-12.35.43:671][687]LogWorld: UWorld::CleanupWorld for MAP1, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-12.35.43:671][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-12.35.43:676][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.14-12.35.43:684][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-12.35.43:733][687]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.14-12.35.43:733][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.12.14-12.35.43:734][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.12.14-12.35.43:738][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-12.35.43:742][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.12.14-12.35.43:777][688]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.12.14-12.39.24:651][972]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '/Script/Engine.BlueprintGeneratedClass'"/Game/HGT/FirstPerson/FirstPersonInterface.FirstPersonInterface_C"',MemberName="InitialWeaponEquip",MemberGuid=88EB9598417825E3381ECFBF2CACFAC9)'
+[2022.12.14-12.39.24:658][972]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to '/Script/Engine.BlueprintGeneratedClass'"/Game/HGT/Weapons/WeaponBPs/ParentWeaponBP.ParentWeaponBP_C"''
+[2022.12.14-12.39.43:003][531]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2022.12.14-12.39.43:035][531]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.023 s
+[2022.12.14-12.39.43:035][531]LogOutputDevice: Error: === Handled ensure: ===
+[2022.12.14-12.39.43:035][531]LogOutputDevice: Error: 
+[2022.12.14-12.39.43:035][531]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid  [File:D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPin.cpp] [Line: 905] 
+[2022.12.14-12.39.43:035][531]LogOutputDevice: Error: The Graph Pin Object has been invalidated. Someone is keeping a hard ref on the SGraphPin (SGraphPinObject [NodeFactory.cpp(293)]). See InvalidateGraphData for more info
+[2022.12.14-12.39.43:035][531]LogOutputDevice: Error: Stack: 
+[2022.12.14-12.39.43:035][531]LogOutputDevice: Error: [Callstack] 0x00007ffb53c5ada1 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2022.12.14-12.39.43:035][531]LogOutputDevice: Error: [Callstack] 0x00007ffb53c5e452 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2022.12.14-12.39.43:035][531]LogOutputDevice: Error: [Callstack] 0x00007ffb60c0d017 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.12.14-12.39.43:035][531]LogOutputDevice: Error: [Callstack] 0x00007ffb60c66baa UnrealEditor-Slate.dll!UnknownFunction []
+[2022.12.14-12.39.43:035][531]LogOutputDevice: Error: [Callstack] 0x00007ffb60c0e537 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.12.14-12.39.43:035][531]LogOutputDevice: Error: [Callstack] 0x00007ffb60c74e84 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.12.14-12.39.43:035][531]LogOutputDevice: Error: [Callstack] 0x00007ffb60c64b91 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.12.14-12.39.43:035][531]LogOutputDevice: Error: [Callstack] 0x00007ffb60c5a9c8 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.12.14-12.39.43:035][531]LogOutputDevice: Error: [Callstack] 0x00007ffb96271a18 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2022.12.14-12.39.43:035][531]LogOutputDevice: Error: [Callstack] 0x00007ffb962567d1 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2022.12.14-12.39.43:035][531]LogOutputDevice: Error: [Callstack] 0x00007ffb96274391 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2022.12.14-12.39.43:035][531]LogOutputDevice: Error: [Callstack] 0x00007ffb9624ff93 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2022.12.14-12.39.43:035][531]LogOutputDevice: Error: [Callstack] 0x00007ffbaf098271 USER32.dll!UnknownFunction []
+[2022.12.14-12.39.43:035][531]LogOutputDevice: Error: [Callstack] 0x00007ffbaf097d31 USER32.dll!UnknownFunction []
+[2022.12.14-12.39.43:035][531]LogOutputDevice: Error: [Callstack] 0x00007ffb96275849 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2022.12.14-12.39.43:035][531]LogOutputDevice: Error: [Callstack] 0x00007ff7c7117332 UnrealEditor.exe!UnknownFunction []
+[2022.12.14-12.39.43:035][531]LogOutputDevice: Error: [Callstack] 0x00007ff7c713287d UnrealEditor.exe!UnknownFunction []
+[2022.12.14-12.39.43:035][531]LogOutputDevice: Error: [Callstack] 0x00007ff7c713296a UnrealEditor.exe!UnknownFunction []
+[2022.12.14-12.39.43:036][531]LogOutputDevice: Error: [Callstack] 0x00007ff7c7135680 UnrealEditor.exe!UnknownFunction []
+[2022.12.14-12.39.43:036][531]LogOutputDevice: Error: [Callstack] 0x00007ff7c71471b4 UnrealEditor.exe!UnknownFunction []
+[2022.12.14-12.39.43:036][531]LogOutputDevice: Error: [Callstack] 0x00007ff7c714a516 UnrealEditor.exe!UnknownFunction []
+[2022.12.14-12.39.43:036][531]LogOutputDevice: Error: [Callstack] 0x00007ffbaef626bd KERNEL32.DLL!UnknownFunction []
+[2022.12.14-12.39.43:036][531]LogOutputDevice: Error: [Callstack] 0x00007ffbb086dfb8 ntdll.dll!UnknownFunction []
+[2022.12.14-12.39.43:036][531]LogOutputDevice: Error: 
+[2022.12.14-12.39.43:045][531]LogStats:                SubmitErrorReport -  0.000 s
+[2022.12.14-12.39.43:924][531]LogStats:                    SendNewReport -  0.879 s
+[2022.12.14-12.39.43:924][531]LogStats:             FDebug::EnsureFailed -  0.922 s
+[2022.12.14-12.40.43:937][213]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.12.14-12.40.44:110][213]LogBlueprint: Warning: [AssetLog] C:\Users\Citroen\Third Person Zombie Shooter\Content\ZombieShooter\Characters\BaseCharacter\ThirdPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'FreeCamera' for  InputAction FreeCamera
+[2022.12.14-12.40.44:156][213]LogBlueprint: Warning: [AssetLog] C:\Users\Citroen\Third Person Zombie Shooter\Content\ZombieShooter\Characters\BaseCharacter\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "FP_WeaponBP" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get FP_WeaponBP
+[2022.12.14-12.40.44:156][213]LogBlueprint: Warning: [AssetLog] C:\Users\Citroen\Third Person Zombie Shooter\Content\ZombieShooter\Characters\BaseCharacter\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "FP_WeaponBP" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get FP_WeaponBP
+[2022.12.14-12.40.44:215][213]LogBlueprint: Error: [AssetLog] C:\Users\Citroen\Third Person Zombie Shooter\Content\ZombieShooter\Characters\BaseCharacter\ThirdPersonCharacter.uasset: [Compiler] The property associated with  FP Weapon BP  could not be found in '/Game/ZombieShooter/Characters/BaseCharacter/ThirdPersonCharacter.ThirdPersonCharacter_C'
+[2022.12.14-12.40.44:215][213]LogBlueprint: Error: [AssetLog] C:\Users\Citroen\Third Person Zombie Shooter\Content\ZombieShooter\Characters\BaseCharacter\ThirdPersonCharacter.uasset: [Compiler] The property associated with  FP Weapon BP  could not be found in '/Game/ZombieShooter/Characters/BaseCharacter/ThirdPersonCharacter.ThirdPersonCharacter_C'
+[2022.12.14-12.40.44:441][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.12.14-12.40.44:994][233]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.14-12.40.45:479][233]LogSavePackage: Moving output files for package: /Game/ZombieShooter/Characters/BaseCharacter/ThirdPersonCharacter
+[2022.12.14-12.40.45:480][233]LogSavePackage: Moving '../../../../../../Users/Citroen/Third Person Zombie Shooter/Saved/ThirdPersonCharacter9E8CB6E846E15305925EF7B6F038096C.tmp' to '../../../../../../Users/Citroen/Third Person Zombie Shooter/Content/ZombieShooter/Characters/BaseCharacter/ThirdPersonCharacter.uasset'
+[2022.12.14-12.40.45:491][233]LogFileHelpers: InternalPromptForCheckoutAndSave took 496 ms (total: 1.29 sec)
+[2022.12.14-12.40.45:508][233]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.12.14-12.40.45:508][233]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ZombieShooter/Characters/BaseCharacter/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.12.14-12.40.55:923][502]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=/Game/HGT/Weapons/WeaponBPs/StartingRifle_BP.StartingRifle_BP_C Name="FP_WeaponBP_GEN_VARIABLE_StartingRifle_BP_C_CAT"
+[2022.12.14-12.40.55:925][502]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=/Game/HGT/Weapons/WeaponBPs/StartingRifle_BP.StartingRifle_BP_C Name="FP_WeaponBP_GEN_VARIABLE_StartingRifle_BP_C_CAT"
+[2022.12.14-12.40.55:927][502]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=/Game/HGT/Weapons/WeaponBPs/StartingRifle_BP.StartingRifle_BP_C Name="FP_WeaponBP_GEN_VARIABLE_StartingRifle_BP_C_CAT"
+[2022.12.14-12.40.56:057][503]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ZombieShooter/Characters/BaseCharacter/ThirdPersonCharacter.ThirdPersonCharacter'
+[2022.12.14-12.40.57:848][591]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.12.14-12.40.58:007][591]LogBlueprint: Warning: [AssetLog] C:\Users\Citroen\Third Person Zombie Shooter\Content\ZombieShooter\Characters\BaseCharacter\ThirdPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'FreeCamera' for  InputAction FreeCamera
+[2022.12.14-12.40.58:372][591]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.12.14-12.40.58:741][601]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.14-12.40.59:233][601]LogSavePackage: Moving output files for package: /Game/ZombieShooter/Characters/BaseCharacter/ThirdPersonCharacter
+[2022.12.14-12.40.59:234][601]LogSavePackage: Moving '../../../../../../Users/Citroen/Third Person Zombie Shooter/Saved/ThirdPersonCharacter3FE970E44BF3B742CFF722A108A61294.tmp' to '../../../../../../Users/Citroen/Third Person Zombie Shooter/Content/ZombieShooter/Characters/BaseCharacter/ThirdPersonCharacter.uasset'
+[2022.12.14-12.40.59:246][601]LogFileHelpers: InternalPromptForCheckoutAndSave took 505 ms (total: 1.80 sec)
+[2022.12.14-12.40.59:261][601]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.12.14-12.40.59:261][601]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ZombieShooter/Characters/BaseCharacter/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.12.14-12.41.01:270][745]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.14-12.41.01:276][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.14-12.41.01:276][745]PIE: New page: PIE session: MAP1 (14 Dec 2022, 14:41:01)
+[2022.12.14-12.41.01:277][745]LogPlayLevel: Creating play world package: /Game/ZombieShooter/Maps/UEDPIE_0_MAP1
+[2022.12.14-12.41.01:284][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007470s)
+[2022.12.14-12.41.01:284][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ZombieShooter/Maps/MAP1.MAP1 to /Game/ZombieShooter/Maps/UEDPIE_0_MAP1.MAP1 (0.007527s)
+[2022.12.14-12.41.01:284][745]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-12.41.01:285][745]LogAIModule: Creating AISystem for world MAP1
+[2022.12.14-12.41.01:285][745]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2022.12.14-12.41.01:353][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.12.14-12.41.01:365][745]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.12.14-12.41.01:365][745]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.14-12.41.01:365][745]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.14-12.41.01:365][745]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.14-12.41.01:365][745]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.14-12.41.01:365][745]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.14-12.41.01:365][745]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.14-12.41.01:365][745]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.14-12.41.01:365][745]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.14-12.41.01:365][745]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.14-12.41.01:365][745]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.14-12.41.01:365][745]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.14-12.41.01:367][745]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.14-12.41.01:390][745]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.12.14-12.41.01:390][745]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.14-12.41.01:390][745]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.14-12.41.01:390][745]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.14-12.41.01:391][745]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.12.14-12.41.01:391][745]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.12.14-12.41.01:393][745]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.12.14-12.41.01:393][745]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.12.14-12.41.01:393][745]LogInit: FAudioDevice initialized.
+[2022.12.14-12.41.01:393][745]LogAudio: Display: Audio Device (ID: 11) registered with world 'MAP1'.
+[2022.12.14-12.41.01:396][745]LogLoad: Game class is 'GameplayGM_C'
+[2022.12.14-12.41.01:398][745]LogWorld: Bringing World /Game/ZombieShooter/Maps/UEDPIE_0_MAP1.MAP1 up for play (max tick rate 0) at 2022.12.14-13.41.01
+[2022.12.14-12.41.01:398][745]LogWorld: Bringing up level for play took: 0.002733
+[2022.12.14-12.41.01:401][745]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2022.12.14-12.41.01:402][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-12.41.01:402][745]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.12.14-12.41.01:402][745]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'SpawnPoints' of length 0 in '/Game/ZombieShooter/CoreBlueprints/Gameplay/GameplayGM.GameplayGM_C'!
+[2022.12.14-12.41.01:402][745]LogScript: Warning: Last function called:
+	/Game/ZombieShooter/CoreBlueprints/Gameplay/GameplayGM.GameplayGM_C.CalculateSpawnLocation
+
+[2022.12.14-12.41.01:406][745]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.14-12.41.01:406][745]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.14-12.41.01:406][745]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.12.14-12.41.01:408][745]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'StartingWeapons' of length 1 in '/Game/ZombieShooter/Characters/BaseCharacter/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2022.12.14-12.41.01:408][745]LogScript: Warning: Last function called:
+	/Game/ZombieShooter/Characters/BaseCharacter/ThirdPersonCharacter.ThirdPersonCharacter_C.SetupStartingWeapons
+
+[2022.12.14-12.41.01:408][745]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.12.14-12.41.01:408][745]PIE: Server logged in
+[2022.12.14-12.41.01:409][745]PIE: Play in editor total start time 0.133 seconds.
+[2022.12.14-12.41.16:282][287]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1401.053 Y=-1191.845 Z=212.141] for [BaseZombie_C]
+[2022.12.14-12.41.16:791][332]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1418.544 Y=-1156.283 Z=263.133] for [BaseZombie_C]
+[2022.12.14-12.41.43:219][652]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1343.117 Y=-1095.566 Z=275.696] for [BaseZombie_C]
+[2022.12.14-12.41.44:217][734]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1379.954 Y=-1201.226 Z=260.239] for [BaseZombie_C]
+[2022.12.14-12.41.44:714][772]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1437.929 Y=-1164.246 Z=219.796] for [BaseZombie_C]
+[2022.12.14-12.42.11:739][825]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1359.079 Y=-1164.445 Z=228.260] for [BaseZombie_C]
+[2022.12.14-12.42.14:734][ 92]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1420.780 Y=-1138.540 Z=232.004] for [BaseZombie_C]
+[2022.12.14-12.42.15:240][137]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1427.729 Y=-1183.454 Z=250.087] for [BaseZombie_C]
+[2022.12.14-12.42.16:247][221]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1350.978 Y=-1072.222 Z=242.229] for [BaseZombie_C]
+[2022.12.14-12.42.52:965][278]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CrouchAttackAnimArray' of length 0 in '/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C'!
+[2022.12.14-12.42.52:966][278]LogScript: Warning: Last function called:
+	/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C.ExecuteUbergraph_BaseZombie
+
+[2022.12.14-12.42.54:707][412]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CrouchAttackAnimArray' of length 0 in '/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C'!
+[2022.12.14-12.42.54:707][412]LogScript: Warning: Last function called:
+	/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C.ExecuteUbergraph_BaseZombie
+
+[2022.12.14-12.42.56:977][588]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1382.537 Y=-1168.746 Z=184.551] for [BaseZombie_C]
+[2022.12.14-12.43.08:965][394]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CrouchAttackAnimArray' of length 0 in '/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C'!
+[2022.12.14-12.43.08:965][394]LogScript: Warning: Last function called:
+	/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C.ExecuteUbergraph_BaseZombie
+
+[2022.12.14-12.43.23:469][464]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CrouchAttackAnimArray' of length 0 in '/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C'!
+[2022.12.14-12.43.23:469][464]LogScript: Warning: Last function called:
+	/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C.ExecuteUbergraph_BaseZombie
+
+[2022.12.14-12.43.29:278][862]Cmd: LevelEditor.ToggleImmersive
+[2022.12.14-12.43.29:306][862]LogViewport: Scene viewport resized to 2058x1066, mode Windowed.
+[2022.12.14-12.43.29:330][863]LogViewport: Scene viewport resized to 2269x1199, mode Windowed.
+[2022.12.14-12.43.29:352][864]LogViewport: Scene viewport resized to 2426x1297, mode Windowed.
+[2022.12.14-12.43.29:377][865]LogViewport: Scene viewport resized to 2517x1354, mode Windowed.
+[2022.12.14-12.43.29:400][866]LogViewport: Scene viewport resized to 2555x1378, mode Windowed.
+[2022.12.14-12.43.29:424][867]LogViewport: Scene viewport resized to 2563x1384, mode Windowed.
+[2022.12.14-12.43.29:444][868]LogViewport: Scene viewport resized to 2564x1384, mode Windowed.
+[2022.12.14-12.43.38:209][663]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CrouchAttackAnimArray' of length 0 in '/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C'!
+[2022.12.14-12.43.38:209][663]LogScript: Warning: Last function called:
+	/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C.ExecuteUbergraph_BaseZombie
+
+[2022.12.14-12.43.43:467][150]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CrouchAttackAnimArray' of length 0 in '/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C'!
+[2022.12.14-12.43.43:467][150]LogScript: Warning: Last function called:
+	/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C.ExecuteUbergraph_BaseZombie
+
+[2022.12.14-12.43.44:706][275]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CrouchAttackAnimArray' of length 0 in '/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C'!
+[2022.12.14-12.43.44:706][275]LogScript: Warning: Last function called:
+	/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C.ExecuteUbergraph_BaseZombie
+
+[2022.12.14-12.43.45:965][409]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CrouchAttackAnimArray' of length 0 in '/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C'!
+[2022.12.14-12.43.45:965][409]LogScript: Warning: Last function called:
+	/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C.ExecuteUbergraph_BaseZombie
+
+[2022.12.14-12.43.47:208][540]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CrouchAttackAnimArray' of length 0 in '/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C'!
+[2022.12.14-12.43.47:208][540]LogScript: Warning: Last function called:
+	/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C.ExecuteUbergraph_BaseZombie
+
+[2022.12.14-12.43.51:957][976]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CrouchAttackAnimArray' of length 0 in '/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C'!
+[2022.12.14-12.43.51:957][976]LogScript: Warning: Last function called:
+	/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C.ExecuteUbergraph_BaseZombie
+
+[2022.12.14-12.43.53:209][ 87]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CrouchAttackAnimArray' of length 0 in '/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C'!
+[2022.12.14-12.43.53:209][ 87]LogScript: Warning: Last function called:
+	/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C.ExecuteUbergraph_BaseZombie
+
+[2022.12.14-12.43.54:468][203]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CrouchAttackAnimArray' of length 0 in '/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C'!
+[2022.12.14-12.43.54:468][203]LogScript: Warning: Last function called:
+	/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C.ExecuteUbergraph_BaseZombie
+
+[2022.12.14-12.43.55:708][323]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CrouchAttackAnimArray' of length 0 in '/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C'!
+[2022.12.14-12.43.55:708][323]LogScript: Warning: Last function called:
+	/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C.ExecuteUbergraph_BaseZombie
+
+[2022.12.14-12.43.56:957][455]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CrouchAttackAnimArray' of length 0 in '/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C'!
+[2022.12.14-12.43.56:957][455]LogScript: Warning: Last function called:
+	/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C.ExecuteUbergraph_BaseZombie
+
+[2022.12.14-12.43.58:464][621]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CrouchAttackAnimArray' of length 0 in '/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C'!
+[2022.12.14-12.43.58:464][621]LogScript: Warning: Last function called:
+	/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C.ExecuteUbergraph_BaseZombie
+
+[2022.12.14-12.43.59:710][763]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CrouchAttackAnimArray' of length 0 in '/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C'!
+[2022.12.14-12.43.59:710][763]LogScript: Warning: Last function called:
+	/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C.ExecuteUbergraph_BaseZombie
+
+[2022.12.14-12.44.00:956][907]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CrouchAttackAnimArray' of length 0 in '/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C'!
+[2022.12.14-12.44.00:957][907]LogScript: Warning: Last function called:
+	/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C.ExecuteUbergraph_BaseZombie
+
+[2022.12.14-12.44.02:207][ 52]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CrouchAttackAnimArray' of length 0 in '/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C'!
+[2022.12.14-12.44.02:207][ 52]LogScript: Warning: Last function called:
+	/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C.ExecuteUbergraph_BaseZombie
+
+[2022.12.14-12.44.03:456][196]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CrouchAttackAnimArray' of length 0 in '/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C'!
+[2022.12.14-12.44.03:456][196]LogScript: Warning: Last function called:
+	/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C.ExecuteUbergraph_BaseZombie
+
+[2022.12.14-12.44.04:707][338]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CrouchAttackAnimArray' of length 0 in '/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C'!
+[2022.12.14-12.44.04:707][338]LogScript: Warning: Last function called:
+	/Game/ZombieShooter/AI_Zombie/BaseZombie.BaseZombie_C.ExecuteUbergraph_BaseZombie
+
+[2022.12.14-12.44.05:680][453]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2022.12.14-12.44.05:680][453]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.14-12.44.05:680][453]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.12.14-12.44.05:875][476]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ArrayOfPlayersAlive' of length 0 in '/Game/ZombieShooter/CoreBlueprints/OnlinePlayerState.OnlinePlayerState_C'!
+[2022.12.14-12.44.05:875][476]LogScript: Warning: Last function called:
+	/Game/ZombieShooter/CoreBlueprints/OnlinePlayerState.OnlinePlayerState_C.ExecuteUbergraph_OnlinePlayerState
+
+[2022.12.14-12.44.06:243][520]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1344.909 Y=-1062.776 Z=192.054] for [BaseZombie_C]
+[2022.12.14-12.44.09:749][939]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1387.483 Y=-1146.943 Z=254.450] for [BaseZombie_C]
+[2022.12.14-12.44.10:250][999]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1373.806 Y=-1077.513 Z=196.074] for [BaseZombie_C]
+[2022.12.14-12.44.10:747][ 58]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1413.729 Y=-1054.766 Z=205.024] for [BaseZombie_C]
+[2022.12.14-12.44.11:753][178]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1328.433 Y=-1195.032 Z=276.303] for [BaseZombie_C]
+[2022.12.14-12.44.13:254][356]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1431.464 Y=-1072.310 Z=241.778] for [BaseZombie_C]
+[2022.12.14-12.44.13:753][415]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1350.978 Y=-1128.972 Z=226.822] for [BaseZombie_C]
+[2022.12.14-12.44.14:748][530]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1319.454 Y=-1042.438 Z=231.917] for [BaseZombie_C]
+[2022.12.14-12.44.15:561][549]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1348.527 Y=-1179.885 Z=269.526] for [BaseZombie_C]
+[2022.12.14-12.44.15:894][550]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1326.270 Y=-1210.197 Z=228.184] for [BaseZombie_C]
+[2022.12.14-12.44.16:894][553]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1314.097 Y=-1216.279 Z=250.111] for [BaseZombie_C]
+[2022.12.14-12.44.17:562][555]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1364.436 Y=-1042.092 Z=201.590] for [BaseZombie_C]
+[2022.12.14-12.44.17:894][556]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1326.978 Y=-1126.886 Z=216.547] for [BaseZombie_C]
+[2022.12.14-12.44.18:561][558]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1353.410 Y=-1169.121 Z=254.549] for [BaseZombie_C]
+[2022.12.14-12.44.18:894][559]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1385.261 Y=-1133.331 Z=203.178] for [BaseZombie_C]
+[2022.12.14-12.44.20:089][569]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1444.497 Y=-1150.371 Z=255.454] for [BaseZombie_C]
+[2022.12.14-12.44.20:567][613]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1444.096 Y=-1076.130 Z=265.120] for [BaseZombie_C]
+[2022.12.14-12.44.20:783][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-12.44.20:783][632]LogWorld: BeginTearingDown for /Game/ZombieShooter/Maps/UEDPIE_0_MAP1
+[2022.12.14-12.44.20:783][632]LogWorld: UWorld::CleanupWorld for MAP1, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-12.44.20:784][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-12.44.20:789][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.14-12.44.20:797][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-12.44.20:847][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-12.44.20:848][632]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.12.14-12.44.20:849][632]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.12.14-12.44.20:862][632]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.12.14-12.44.20:878][633]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.12.14-12.44.21:945][745]LogViewport: Scene viewport resized to 2291x1212, mode Windowed.
+[2022.12.14-12.44.21:958][746]LogViewport: Scene viewport resized to 2095x1089, mode Windowed.
+[2022.12.14-12.44.21:988][747]LogViewport: Scene viewport resized to 1880x954, mode Windowed.
+[2022.12.14-12.44.22:013][748]LogViewport: Scene viewport resized to 1747x870, mode Windowed.
+[2022.12.14-12.44.22:036][749]LogViewport: Scene viewport resized to 1678x827, mode Windowed.
+[2022.12.14-12.44.22:057][750]LogViewport: Scene viewport resized to 1636x801, mode Windowed.
+[2022.12.14-12.44.22:080][751]LogViewport: Scene viewport resized to 1617x788, mode Windowed.
+[2022.12.14-12.44.22:124][752]LogViewport: Scene viewport resized to 1609x784, mode Windowed.
+[2022.12.14-12.44.23:111][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.12.14-12.44.25:791][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.12.14-12.44.25:794][103]LogStall: Shutdown...
+[2022.12.14-12.44.25:800][103]LogStall: Shutdown complete.
+[2022.12.14-12.44.25:846][103]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-12.44.25:846][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-12.44.25:921][103]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-12.44.25:922][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-12.44.25:930][103]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-12.44.25:930][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-12.44.25:985][103]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2022.12.14-12.44.26:003][103]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.14-12.44.26:003][103]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-12.44.26:003][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-12.44.26:068][103]LogSlate: Window 'Plugins' being destroyed
+[2022.12.14-12.44.26:142][103]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2022.12.14-12.44.26:142][103]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Citroen/Third Person Zombie Shooter/Plugins/' was aborted.
+[2022.12.14-12.44.26:143][103]LogSlate: Window 'Message Log' being destroyed
+[2022.12.14-12.44.26:148][103]LogSlate: Window 'ThirdPersonZombie - Unreal Editor' being destroyed
+[2022.12.14-12.44.26:250][104]Cmd: QUIT_EDITOR
+[2022.12.14-12.44.26:250][104]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.12.14-12.44.26:252][104]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.12.14-12.44.26:252][104]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.12.14-12.44.26:253][104]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.12.14-12.44.26:254][104]LogWorld: UWorld::CleanupWorld for MAP1, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-12.44.26:254][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-12.44.26:255][104]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2022.12.14-12.44.27:149][104]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.12.14-12.44.27:149][104]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.12.14-12.44.27:149][104]LogAudio: Display: Audio Device unregistered from world 'MAP1'.
+[2022.12.14-12.44.27:149][104]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.12.14-12.44.27:150][104]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.12.14-12.44.27:156][104]LogAudio: Display: Audio Device Manager Shutdown
+[2022.12.14-12.44.27:157][104]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2022.12.14-12.44.27:160][104]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.12.14-12.44.27:161][104]LogExit: Preparing to exit.
+[2022.12.14-12.44.27:247][104]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.12.14-12.44.27:282][104]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.14-12.44.27:283][104]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.14-12.44.27:283][104]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.14-12.44.27:283][104]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.14-12.44.27:283][104]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.14-12.44.27:283][104]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.14-12.44.27:283][104]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.14-12.44.27:283][104]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.14-12.44.27:283][104]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.14-12.44.27:283][104]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.14-12.44.27:283][104]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.14-12.44.27:283][104]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.14-12.44.27:283][104]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.14-12.44.27:283][104]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.14-12.44.27:283][104]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.14-12.44.27:283][104]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.14-12.44.27:283][104]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.14-12.44.27:283][104]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.14-12.44.27:283][104]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.14-12.44.28:115][104]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.14-12.44.28:116][104]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.14-12.44.28:116][104]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.14-12.44.28:116][104]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.14-12.44.28:116][104]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.14-12.44.28:116][104]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.14-12.44.28:116][104]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.14-12.44.28:116][104]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-12.44.28:119][104]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-12.44.28:122][104]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-12.44.28:125][104]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-12.44.28:128][104]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-12.44.28:131][104]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-12.44.28:134][104]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-12.44.28:202][104]LogExit: Editor shut down
+[2022.12.14-12.44.28:205][104]LogExit: Transaction tracking system shut down
+[2022.12.14-12.44.28:230][104]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2022.12.14-12.44.28:459][104]LogExit: Object subsystem successfully closed.
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display: ================================================
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display: Total job queries 515, among them cache hits 40 (7.77%)
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display: Tracking 475 distinct input hashes that result in 271 distinct outputs (57.05%)
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display: RAM used: 1.02 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.12%
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display: Shaders Compiled: 26
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display: Jobs assigned 26, completed 26 (100.00%)
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display: Average time worker was idle: 5.34 s
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display: Time job spent in pending queue: average 1.46 s, longest 3.58 s
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display: Job execution time: average 1.48 s, max 2.33 s
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display: Job life time (pending + execution): average 2.94 s, max 4.49
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.85 s
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display: Jobs were issued in 26 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display: Average processing rate: 4.44 jobs/sec
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display: Total thread time: 33.66 s
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display: Total thread preprocess time: 1.31 s
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display: Percentage time preprocessing: 3.88%
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display: Effective parallelization: 5.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 2.05 sec, max 2.05 sec, min 2.05 sec)
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 1.94 sec, max 1.94 sec, min 1.94 sec)
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    1 times, average 1.83 sec, max 1.83 sec, min 1.83 sec)
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 1.76 sec, max 2.04 sec, min 1.48 sec)
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    1 times, average 1.73 sec, max 1.73 sec, min 1.73 sec)
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 10.44% of total time (compiled    2 times, average 1.76 sec, max 2.04 sec, min 1.48 sec)
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 8.60% of total time (compiled    2 times, average 1.45 sec, max 1.94 sec, min 0.95 sec)
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 8.19% of total time (compiled    2 times, average 1.38 sec, max 1.84 sec, min 0.92 sec)
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.89% of total time (compiled    2 times, average 1.16 sec, max 1.38 sec, min 0.95 sec)
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 6.81% of total time (compiled    2 times, average 1.15 sec, max 1.46 sec, min 0.83 sec)
+[2022.12.14-12.44.28:464][104]LogShaderCompilers: Display: ================================================
+[2022.12.14-12.44.28:549][104]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.12.14-12.44.28:560][104]LogVirtualization: UE::Virtualization was shutdown
+[2022.12.14-12.44.28:588][104]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (997)
+[2022.12.14-12.44.28:588][104]LogModuleManager: Shutting down and abandoning module SequencerWidgets (995)
+[2022.12.14-12.44.28:588][104]LogModuleManager: Shutting down and abandoning module BlueprintGraph (993)
+[2022.12.14-12.44.28:588][104]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (991)
+[2022.12.14-12.44.28:589][104]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (987)
+[2022.12.14-12.44.28:589][104]LogModuleManager: Shutting down and abandoning module Voice (985)
+[2022.12.14-12.44.28:589][104]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (983)
+[2022.12.14-12.44.28:589][104]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (981)
+[2022.12.14-12.44.28:589][104]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (979)
+[2022.12.14-12.44.28:589][104]LogModuleManager: Shutting down and abandoning module SubobjectEditor (977)
+[2022.12.14-12.44.28:589][104]LogModuleManager: Shutting down and abandoning module SceneOutliner (975)
+[2022.12.14-12.44.28:589][104]LogModuleManager: Shutting down and abandoning module AddContentDialog (973)
+[2022.12.14-12.44.28:589][104]LogModuleManager: Shutting down and abandoning module WidgetCarousel (972)
+[2022.12.14-12.44.28:589][104]LogModuleManager: Shutting down and abandoning module StatusBar (969)
+[2022.12.14-12.44.28:589][104]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (967)
+[2022.12.14-12.44.28:589][104]LogModuleManager: Shutting down and abandoning module StatsViewer (965)
+[2022.12.14-12.44.28:589][104]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (963)
+[2022.12.14-12.44.28:589][104]LogModuleManager: Shutting down and abandoning module AutomationWorker (961)
+[2022.12.14-12.44.28:589][104]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (959)
+[2022.12.14-12.44.28:589][104]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (957)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (955)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (953)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (951)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module WebMMedia (949)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (947)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (945)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (943)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (941)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (939)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (937)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (935)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (933)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module SmartSnapping (931)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (929)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (927)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module TakesCore (925)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module TextureAlignMode (923)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module BspMode (921)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module GeometryMode (919)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (917)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module PlanarCut (915)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module CharacterAI (913)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (911)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (909)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (907)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module WaveTableEditor (905)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (903)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module GooglePADEditor (901)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (899)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module SequenceRecorder (898)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (895)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module ControlRigEditor (893)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module IKRigEditor (891)
+[2022.12.14-12.44.28:590][104]LogModuleManager: Shutting down and abandoning module SessionServices (889)
+[2022.12.14-12.44.28:594][104]LogModuleManager: Shutting down and abandoning module MeshPaint (887)
+[2022.12.14-12.44.28:594][104]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (885)
+[2022.12.14-12.44.28:594][104]LogModuleManager: Shutting down and abandoning module PlacementMode (884)
+[2022.12.14-12.44.28:594][104]LogModuleManager: Shutting down and abandoning module FoliageEdit (881)
+[2022.12.14-12.44.28:594][104]LogModuleManager: Shutting down and abandoning module LandscapeEditor (879)
+[2022.12.14-12.44.28:594][104]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (877)
+[2022.12.14-12.44.28:594][104]LogModuleManager: Shutting down and abandoning module ActorPickerMode (875)
+[2022.12.14-12.44.28:594][104]LogModuleManager: Shutting down and abandoning module ViewportSnapping (873)
+[2022.12.14-12.44.28:594][104]LogModuleManager: Shutting down and abandoning module ViewportInteraction (871)
+[2022.12.14-12.44.28:594][104]LogModuleManager: Shutting down and abandoning module ClothPainter (869)
+[2022.12.14-12.44.28:594][104]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (868)
+[2022.12.14-12.44.28:594][104]LogModuleManager: Shutting down and abandoning module LogVisualizer (865)
+[2022.12.14-12.44.28:594][104]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (863)
+[2022.12.14-12.44.28:594][104]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (861)
+[2022.12.14-12.44.28:594][104]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (860)
+[2022.12.14-12.44.28:594][104]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (858)
