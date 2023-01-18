@@ -1,1 +1,4 @@
-een third person zombie shooter waar je met je vrienden kan spelen en het gameplay is net als call of duty zombies maar met minder functies omdat ik in het 1tje maak een weinig tijd heb.
+Het idee is dat het een third person zombie shooter.
+je hebt points links beneden om dingen te kopen zoals wapens, deuren en meer.
+het zal een main menu en lobby hebben en die ui is bedoelt dat je kan dingen veranderen voor dat je speelt.
+bedoeling van het lobby is dat je samen kan spelen als je multiplayer speelt. en je krijgt controls om mappen te veranderen in het lobby ui (als je het host bent).
